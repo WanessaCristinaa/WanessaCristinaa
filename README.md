@@ -15,7 +15,7 @@
 
 ![Wanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanessacristinaa&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanessacristinaa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanessacristinaa&layout=compact&theme=algolia")
 
 ### Habilidades
 #### Conhecimentos em:
