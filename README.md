@@ -12,13 +12,13 @@
 <p align="center"> Apaixonada pela tecnologia e programação, atualmente buscando ampliar o conhecimentos! </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=wanessacristinaa&theme=algolia" alt="GitHub Streak">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wanessacristinaa&theme=algolia" alt="Top Langs">
 </p>
 
+
+
 <p align="center">
-![Wanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanessacristinaa&show_icons=true&theme=algolia)
+  <img src="https://github-readme-stats.vercel.app/api?username=wanessacristinaa&show_icons=true&theme=algolia">
 </p>
 
 <p align="center">
