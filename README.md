@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**WanessaCristinaa/WanessaCristinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![capa github Wanessa Cristina](https://github.com/WanessaCristinaa/WanessaCristinaa/assets/139433754/9bbe11f1-88fd-4808-99ab-19619e5fe687)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center"><b>Estudante de Sistemas de Informação (Puc MG)</b></p>
+
+<p align="center"> Apaixonada pela tecnologia e programação, atualmente buscando ampliar o conhecimentos! </p>
+
+
+## Habilidades
+### Conhecimentos em:
+### Quero aprofundar em:
+## Contato:
