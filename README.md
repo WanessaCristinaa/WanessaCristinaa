@@ -12,7 +12,7 @@
 <p align="center"> Apaixonada pela tecnologia e programação, atualmente buscando ampliar o conhecimentos! </p>
 
 
-<center> ![Wanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanessacristinaa&show_icons=true&theme=tokyonight) </center>
+![Wanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanessacristinaa&show_icons=true&theme=algolia) 
 
 ### Habilidades
 #### Conhecimentos em:
