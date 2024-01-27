@@ -11,6 +11,7 @@
 
 <p align="center"> Apaixonada pela tecnologia e programação, atualmente buscando ampliar o conhecimentos! </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wanessacristinaa&theme=violet-punch&hide_border=falso)](https://git.io/streak-stats)
 
 ![Wanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanessacristinaa&show_icons=true&theme=algolia) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanessacristinaa&layout=compact)
