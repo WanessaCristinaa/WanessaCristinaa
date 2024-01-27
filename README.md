@@ -11,9 +11,9 @@
 
 <p align="center"> Apaixonada pela tecnologia e programação, atualmente buscando ampliar o conhecimentos! </p>
 
-
+<p align="center">
 ![Wanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanessacristinaa&show_icons=true&theme=algolia) 
-
+</p>
 ### Habilidades
 #### Conhecimentos em:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
