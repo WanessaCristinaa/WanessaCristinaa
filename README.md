@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/WanessaCristinaa/WanessaCristinaa/assets/139433754/9bbe11f1-88fd-4808-99ab-19619e5fe687">
 </p>
-
+&nbsp;&nbsp;&nbsp;
 
 <p align="center"><b>Estudante de Sistemas de Informação (Puc MG)</b></p> 
 
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wanessacristinaa&theme=algolia" alt="Top Langs">
 </p>
-
+ &nbsp;
 
 
 
@@ -27,7 +27,6 @@
 
 #### 🚀 Conhecimentos em: 
 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,6 +40,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### ⚡ Databases:
 
@@ -55,7 +55,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 
