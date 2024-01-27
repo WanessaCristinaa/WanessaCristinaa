@@ -11,11 +11,13 @@
 
 ## Habilidades
 ### Conhecimentos em:
+
+[![linkedin](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 ### Quero aprofundar em:
 
 ## Contato:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanessa-cristina-694234272)
 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+
 [![linkedin]( )]
-[![linkedin]( )]
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] ()
