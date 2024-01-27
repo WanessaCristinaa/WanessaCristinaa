@@ -4,11 +4,11 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"><b>Estudante de Sistemas de Informação (Puc MG)</b></p> 
-
-<p align = "center" > <strong>Apaixonada pela tecnologia e programação, atualmente buscando ampliar o conhecimentos!</strong> ❤</p>. 
-  <p align = "center" >Estou me especializando em <strong>JavaScript e Ruby(automção)</strong>, além de ter conhecimentos em outras linguagens, como C# e Java. Amo <strong>aprender </strong> e descobrir <strong>novos conhecimentos. </strong> Além disso, tenho paixão por ensinar e contribuir para o bom funcionamento de tudo. Fique à vontade para conhecer mais sobre o que sei fazer e entrar em contato! 😊
+<p align = "center" > <strong>Apaixonada pela tecnologia e programação, atualmente buscando ampliar o conhecimentos!</strong> ❤. </p>
+<p align = "center" > Estou me especializando em <strong>JavaScript e Ruby(automção)</strong>, além de ter conhecimentos em outras linguagens, como C# e Java. Amo <strong>aprender </strong> e descobrir <strong>novos conhecimentos. </strong> Além disso, tenho paixão por ensinar e contribuir para o bom funcionamento de tudo. Fique à vontade para conhecer mais sobre o que sei fazer e entrar em contato! 😊 </p>
 </p>
-
+ &nbsp;
+ 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wanessacristinaa&theme=algolia" alt="Top Langs">
 </p>
