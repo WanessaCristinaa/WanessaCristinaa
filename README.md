@@ -11,10 +11,10 @@
 
 <p align="center"> Apaixonada pela tecnologia e programação, atualmente buscando ampliar o conhecimentos! </p>
 
+![Wanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanessacristinaa&show_icons=true&theme=radical)
 
-## Habilidades
-### Conhecimentos em:
-
+### Habilidades
+#### Conhecimentos em:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)]()
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,27 +26,21 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 20px;">
-    <h3>Databases:</h3>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
-  </div>
+#### Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+#### Quero aprofundar em:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+
   <div style="flex: 1;">
-    <h3>Quero aprofundar em:</h3>
-    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+    <img src="https://github.com/WanessaCristinaa/WanessaCristinaa/assets/139433754/4d2ef9cf-dbc0-42f3-b0ba-aded691d297f" width="250px" height="250px" alt="desenho notebook">
   </div>
- 
-<div style="flex: 1;  margin-left: 20px;">
- <img src="https://github.com/WanessaCristinaa/WanessaCristinaa/assets/139433754/4d2ef9cf-dbc0-42f3-b0ba-aded691d297f" width="250px" height="250px" alt="desenho notebook" style= "float: right; margin-right: 10px;" >
-</div>
-</div>
-
-
 
 
  
